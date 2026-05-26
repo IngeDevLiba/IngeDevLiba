@@ -2,18 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # cada día
-  workflow_dispatch:
+    - cron: "0 0 * * *" # cada día a medianoche
+  workflow_dispatch: # permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@master
         with:
           github_user_name: IngeDevLiba
           svg_out_path: dist/snake.svg
-      - name: Commit files
+
+      - name: Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
