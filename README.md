@@ -103,9 +103,15 @@ Languages: Spanish (Native), English (A2)
 
 ## 📊 Mis estadísticas en GitHub
 
-![Profile Details](https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![Most Commit Language](https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IngeDevLiba&layout=compact&theme=tokyonight)
+<!-- Tarjeta de perfil -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/0-profile-details.svg" width="600"/>
+</p>
+
+<!-- Lenguajes lado a lado -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IngeDevLiba&layout=compact&theme=tokyonight" width="350"/>
 
 **Credits: [IngeDevLiba](https://github.com/IngeDevLiba)
 
