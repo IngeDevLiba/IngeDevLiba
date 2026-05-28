@@ -105,9 +105,7 @@ Languages: Spanish (Native), English (A2)
 
 ![Profile Details](https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![Most Commit Language](https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![Stats](https://raw.githubusercontent.com/IngeDevLiba/IngeDevLiba/master/profile-summary-card-output/tokyonight/3-stats.svg)
-
- ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IngeDevLiba&layout=compact&theme=tokyonight)
 
 **Credits: [IngeDevLiba](https://github.com/IngeDevLiba)
 
